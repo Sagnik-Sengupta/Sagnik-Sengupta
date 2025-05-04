@@ -1,16 +1,6 @@
 # 👋 Hello, I'm Sagnik Sengupta!
 
-I am an undergraduate student at MIT Manipal, specializing in **Data Science Engineering** with a keen focus on **Machine Learning** and **Deep Learning**. My primary interests revolve around DL, particularly its applications in **Computer Vision** and **Natural Language Processing (NLP)**. I am passionate about leveraging cutting-edge technologies to solve complex problems and am continuously exploring innovative methods in these fields.
-
-## 🌟 Interests
-
-- **Deep Learning**: Exploring innovative applications in:
-  - **Computer Vision**
-  - **Natural Language Processing (NLP)**
-
-- **Data Science**: Leveraging data to drive insights and solutions.
-
-- **Programming**: Sharpening problem-solving skills through challenges.
+I am an undergraduate student at MIT Manipal, specializing in **Data Science Engineering** with a keen focus on **Machine Learning** and **Deep Learning**. My primary interests revolve around DL, particularly its applications in **Computer Vision** , **Natural Language Processing (NLP)** and **Deep Reinforcement Learning**. I am passionate about leveraging cutting-edge technologies to solve complex problems and am continuously exploring innovative methods in these fields.
 
 ## 🚀 My Goal
 
